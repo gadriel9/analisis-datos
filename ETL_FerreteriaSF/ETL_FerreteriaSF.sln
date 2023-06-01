@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL_FerreteriaSF", "ETL_FerreteriaSF\ETL_FerreteriaSF.dtproj", "{6CE455AD-A26A-4341-9FEF-E19DCF71042B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE455AD-A26A-4341-9FEF-E19DCF71042B}.Development|Default.ActiveCfg = Development
+		{6CE455AD-A26A-4341-9FEF-E19DCF71042B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0ED15DF-EDF8-4CAD-A936-8E5011CB6C12}
+	EndGlobalSection
+EndGlobal

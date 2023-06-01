@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-46OROKO_PREDS.FerreteriaSFD"
+  DTS:DTSID="{49692660-ECC0-4D44-A320-96339EBDA21B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-46OROKO\PREDS;Initial Catalog=FerreteriaSFD;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-ETL_FerreteriaSF-{49692660-ECC0-4D44-A320-96339EBDA21B}DESKTOP-46OROKO\PREDS.FerreteriaSFD;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
